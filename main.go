@@ -51,6 +51,6 @@ func main() {
 	if erro != nil {
         fmt.Println("Failed:" + err.Error())
     }
-    fmt.Printf("Succesfully Started Bot!")
+    fmt.Printf("Succesfully Started Bot by CLANLORD!")
     updater.Idle()
 }
