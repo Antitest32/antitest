@@ -17,7 +17,7 @@ I can ban the channels which
 	if ctx.EffectiveChat.Type != "private" {
 		ctx.EffectiveMessage.Reply(
 			bot,
-IMG_1 = getenv("IMG_1", "https://telegra.ph/file/c85b0df4c9b41cb2fe5f0.jpg")
+			"https://telegra.ph/file/c85b0df4c9b41cb2fe5f0.jpg"
 			"🇮🇳 𝐉𝐀𝐈 𝐒𝐇𝐑𝐄𝐄 𝐑𝐀𝐌 ❤️            𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴 💛",
 		        &gotgbot.SendMessageOpts{ParseMode: "markdown"},
 		)
