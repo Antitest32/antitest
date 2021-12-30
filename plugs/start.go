@@ -12,7 +12,7 @@ detector bot 🇮🇳*.
 I can ban the channels which
 🔱spams your chat🔱!
 
-*❤️(c) @clanlord7 🇮🇳*
+*❤️(c) @Soul_4 🇮🇳*
 	`
 	if ctx.EffectiveChat.Type != "private" {
 		ctx.EffectiveMessage.Reply(
