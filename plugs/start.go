@@ -7,7 +7,7 @@ import (
 
 func Start(bot *gotgbot.Bot, ctx *ext.Context) error {
 	var MSG string = `
-*🇮🇳 Hello, I am a channel spam
+*🇮🇳 Hello dear, I am a channel spam
 detector bot 🇮🇳*.
 I can ban the channels which
 🔱spams your chat🔱!
